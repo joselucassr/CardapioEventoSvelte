@@ -10,7 +10,6 @@
   };
 </script>
 
-<!-- <h1>Cardápio</h1> -->
 <main>
   {#each Object.keys(cardapio) as tipo, i}
     <section class={tipo}>
@@ -28,18 +27,6 @@
   :root {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
       Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  }
-
-  h1 {
-    margin-bottom: 0;
-    margin-left: 2.5vw;
-
-    font-weight: 400;
-    color: #333333;
-  }
-
-  h2 {
-    /* margin-bottom: 0; */
   }
 
   main {
