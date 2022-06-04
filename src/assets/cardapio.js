@@ -43,28 +43,8 @@ export const cardapio = {
   ],
   "diversos": [
     {
-      "nome": "Cachorro quente",
-      "preco": 10
-    },
-    {
       "nome": "Caldo de costela c/ mandioca",
       "preco": 10
-    },
-    {
-      "nome": "Caldo verde",
-      "preco": 10
-    },
-    {
-      "nome": "Empadão de frango",
-      "preco": 10
-    },
-    {
-      "nome": "Canjica de amendoim",
-      "preco": 8
-    },
-    {
-      "nome": "Canjica de coco",
-      "preco": 8
     }
   ],
   "cuscuz": [
@@ -92,14 +72,6 @@ export const cardapio = {
   "bebidas": [
     {
       "nome": "Refrigerante de lata",
-      "preco": 5
-    },
-    {
-      "nome": "Suco natural",
-      "preco": 5
-    },
-    {
-      "nome": "Água",
       "preco": 5
     }
   ]
